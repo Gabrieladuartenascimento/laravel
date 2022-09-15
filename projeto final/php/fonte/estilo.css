@@ -1,0 +1,33 @@
+#acesso {
+    position: relative;
+    margin: 200px auto;
+    width: 220px;
+    height: 130px;
+    border: 1px solid #8B0000;
+}
+
+#acesso #fo {
+    position: absolute;
+    display: block;
+}
+
+#fo input.ac {
+    border: 1px solid #8B0000;
+    width: 200px;
+}
+
+#fo input.b {
+    color: white;
+    border: 1px solid #CD5C5C;
+    background-color: #FFC0CB;
+}
+
+legend {
+    text-align: center;
+}
+
+#m {
+    margin: 200px auto;
+    width: 220px;
+    border: 5px solid #D8BFD8;
+}
